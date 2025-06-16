@@ -1,0 +1,3 @@
+Information for car with serial number 97316
+Serial Number: 97316 | Description: Honda Civic | Quantity: 5 | Price: $26267.0 | Dealer's Cost: $32302.0 | Color: Black
+

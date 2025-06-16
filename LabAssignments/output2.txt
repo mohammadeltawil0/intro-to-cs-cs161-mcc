@@ -1,0 +1,7 @@
+Serial Number: 11111
+Description: Sedan A
+Color: Black
+Quantity: 5
+Dealer's Cost: $15000.00
+Price: $20000.00
+Profit: $5000.00

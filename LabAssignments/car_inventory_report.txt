@@ -1,0 +1,737 @@
+Total Cars Available: 105
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Description: Sedan
+Total Cost: 25000.0
+Total Available Cars for Model Model A: 4
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Description: Sedan
+Total Cost: 25000.0
+Total Available Cars for Model Model A: 3
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Description: Sedan
+Total Cost: 25000.0
+Total Available Cars for Model Model A: 2
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Description: Sedan
+Total Cost: 25000.0
+Total Available Cars for Model Model A: 1
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Description: Sedan
+Total Cost: 25000.0
+Total Available Cars for Model Model A: 0
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 22
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 21
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 20
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 19
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 18
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 17
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 16
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 15
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 14
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 13
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 12
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 11
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 10
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 9
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 8
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 7
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 6
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 5
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 4
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 3
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 2
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 1
+
+Serial Number: 22
+Color: White
+Model: Model B
+Description: SUV
+Total Cost: 30000.0
+Total Available Cars for Model Model B: 0
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 11
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 10
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 9
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 8
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 7
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 6
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 5
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 4
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 3
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 2
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 1
+
+Serial Number: 33
+Color: Red
+Model: Model C
+Description: Coupe
+Total Cost: 28000.0
+Total Available Cars for Model Model C: 0
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 64
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 63
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 62
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 61
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 60
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 59
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 58
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 57
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 56
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 55
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 54
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 53
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 52
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 51
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 50
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 49
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 48
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 47
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 46
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 45
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 44
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 43
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 42
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 41
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 40
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 39
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 38
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 37
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 36
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 35
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 34
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 33
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 32
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 31
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 30
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 29
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 28
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 27
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 26
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 25
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 24
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 23
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 22
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 21
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 20
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 19
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 18
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 17
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 16
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 15
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 14
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 13
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 12
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 11
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 10
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 9
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 8
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 7
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 6
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 5
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 4
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 3
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 2
+
+Serial Number: 44
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 1
+
+Serial Number: 4
+Color: Blue
+Model: Model D
+Description: Convertible
+Total Cost: 35000.0
+Total Available Cars for Model Model D: 0
+

@@ -1,0 +1,6 @@
+This is the beginning of my simple text file.
+3
+Hello World.
+3
+This is the end of my simple text file.
+3

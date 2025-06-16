@@ -1,0 +1,7 @@
+Serial Number: 33333
+Color: Red
+Description: Hatchback C
+Quantity: 8
+Price: $12000.0
+Dealer's Cost: $18000.0
+Profit: $6000.0

@@ -1,0 +1,7 @@
+Serial Number: 15151
+Color: White
+Description: Mid-size N
+Quantity: 4
+Price: $19500.0
+Dealer's Cost: $24500.0
+Profit: $5000.0

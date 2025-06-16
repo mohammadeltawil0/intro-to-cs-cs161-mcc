@@ -1,0 +1,16 @@
+Car Inventory:
+Serial Number: 11
+Color: Black
+Model: Model A
+Total Available Cars for Model Model A: 1
+
+Serial Number: 11
+Color: Black
+Model: Model A
+Total Available Cars for Model Model A: 0
+
+Serial Number: 22
+Color: White
+Model: Model B
+Total Available Cars for Model Model B: 0
+

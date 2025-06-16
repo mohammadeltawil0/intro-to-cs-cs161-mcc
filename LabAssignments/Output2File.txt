@@ -1,0 +1,8 @@
+Serial Number: 13131
+Color: Blue
+Description: Mini L
+Quantity: 7
+Price: $16,500.00
+Dealer's Cost: $21,500.00
+Profit: $5,000.00
+
